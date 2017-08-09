@@ -1,0 +1,2 @@
+debian/bin/CrocodileCashd usr/bin
+src/CrocodileCashd usr/lib/CrocodileCash
