@@ -1,5 +1,5 @@
 
-CrocodilCash v1.3.8.0
+CrocodileCash v1.3.8.0
 
 Algorithm: SHA-256 PoW/DPOS/PoS Hybrid
 
